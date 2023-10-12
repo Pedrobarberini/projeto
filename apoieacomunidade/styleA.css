@@ -1,0 +1,15 @@
+#porta{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+
+body{
+    background: var(--bg--url) no-repeat top center/cover;
+
+}
+
+:root {
+    --bg--url: url(../assets/bg-mobile.jpg);
+}
