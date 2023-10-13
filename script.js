@@ -10,6 +10,6 @@ function togglemode(){
 
      } else {
 
-            Img.setAttribute("src" , "./assets/avatar.png")
+            Img.setAttribute("src" , "./assets/Avatar.png")
     }
 }
